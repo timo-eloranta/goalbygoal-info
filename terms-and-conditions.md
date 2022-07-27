@@ -19,7 +19,7 @@ For the purposes of these Terms and Conditions:
 - __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
 - __Country__ refers to:  Finland
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Goal by Goal.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Timo Eloranta, the individual who has authored and published the Application.
 
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - __Feedback__ means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
