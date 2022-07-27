@@ -4,7 +4,7 @@ Welcome to the information portal for Goal by Goal, an iOS app for checking NHL 
 
 This GitHub repository is intended to serve two purposes:
 
-1. To provide general information about the app, such as the Terms of Use (ToU) as well as the Privacy Policy
+1. To provide general information about the app, such as the *Terms and Conditions* as well as the *Privacy Policy*
 2. To act as a bug and issue tracker for the app, so users can report anything they've encountered and see what other people have reported
 
 ## Reporting bugs
