@@ -19,4 +19,4 @@ If you prefer not to create a GitHub account, you can send us an email by clicki
 
 ## Important notice
 
-_**Note: Goal by Goal is not endorsed by or affiliated with the National Hockey League (NHL). Any trademarks used in the app are done so under "fair use" with the sole purpose of identifying the respective entities, and remain the property of their respective owners.**_
+_**Goal by Goal is not endorsed by or affiliated with the National Hockey League (NHL). Any trademarks used in the app are done so under "fair use" with the sole purpose of identifying the respective entities, and remain the property of their respective owners.**_
