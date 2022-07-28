@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: July 28, 2022
+Last updated: July 29, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -22,7 +22,7 @@ For the purposes of this Privacy Policy:
 - __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Goal by Goal
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Timo Eloranta, the individual who has authored and published the Application..
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Timo Eloranta, the individual who has authored and published the Application.
 
 	For the purpose of the GDPR, the Company is the Data Controller.
 
